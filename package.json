@@ -1,5 +1,5 @@
 {
-  "name": "lab2",
+  "name": "c",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,5 +36,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-terser": "^2.1.0"
+  },
+  "author": "",
+  "license": "ISC"
 }
